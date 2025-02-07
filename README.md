@@ -46,7 +46,7 @@ Conducted in-depth testing to ensure marketplace efficiency:
 ---
 
 ## **Project Resources** 📚
-- **Live Platform**: [Furniro Marketplace](#)
+- **Live Platform**: [https://furnirofaiza.vercel.app](#)
 - **Technical Documentation**: [Marketplace Development Guide](#)
 - **Source Code Repository**: [Furniro E-commerce](#)
 
